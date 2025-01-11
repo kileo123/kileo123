@@ -1,14 +1,15 @@
 ```yaml
   name: Ki Leo
-  located_in: bbb
-  current_job: ccc
+  located_in: Jakarta, Indonesia 
+  current_job: Hardware Engineer
   education:
     [
       "Self-Taught Developer and Designer",
-      "Master's in Electrical and Computer Engineering",
-      "Bachelor's in Electronics and Communication",
+      "Bachelor's in Electrical and Computer Engineering",
     ]
-  company: ddd
+```
+<!--
+  company: Self-Employed
   
   fields_of_interests:
     [
@@ -29,7 +30,7 @@
     ]
     
   currently_learning: ["Docker, Kubernetes, and React Native"]
-  2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+  2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
   hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
