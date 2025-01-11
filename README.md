@@ -1,6 +1,5 @@
-```JSON
-{
-  "name" : "aaa",
+```yaml
+  name: Ki Leo
   located_in: bbb
   current_job: ccc
   education:
@@ -32,7 +31,6 @@
   currently_learning: ["Docker, Kubernetes, and React Native"]
   2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
   hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-  }
 ```
 
 <!--
