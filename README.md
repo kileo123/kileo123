@@ -1,5 +1,5 @@
 ```PYTHON
-name: aaa
+name = aaa
 located_in: bbb
 current_job: ccc
 education:
