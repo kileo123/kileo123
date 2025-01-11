@@ -4,8 +4,8 @@
   current_job: Hardware Engineer
   education:
     [
-      "Self-Taught Developer and Designer",
       "Bachelor's in Electrical and Computer Engineering",
+      "Self-Taught Developer and Designer",
     ]
 ```
 <!--
