@@ -1,4 +1,4 @@
-```PYTHON
+```C
 name = aaa
 located_in: bbb
 current_job: ccc
